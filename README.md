@@ -4,7 +4,7 @@
 
 L'objectif de ce projet est 
 
-<img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png" width="20%" and height="20%"/>
+<img src="https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France/blob/main/Rplot.png" width="150%" and height="100%"/>
 
 
 
