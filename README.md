@@ -4,7 +4,7 @@
 
 L'objectif de ce projet est de modéliser les variations saisonnières du nombre de passagers quotidiens dans les vols à l'intérieur de la France.
 
-Pour cela, j'avais à disposition un historique du nombre de passagers pour chaque jour. 
+Pour cela, j'avais à disposition un historique du nombre de passagers pour chaque journée. 
 
 J'ai modélisé la série temporelle à l'aide du package zoo disponible en langage R.
 
